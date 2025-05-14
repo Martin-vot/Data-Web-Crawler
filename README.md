@@ -84,8 +84,8 @@ IndiaCode/
 
 ## 📬 Author
 
-Martin Votava  
+Martin Vot  
 🔗 [github.com/Martin-vot](https://github.com/Martin-vot)  
-📧 [martin@example.com](mailto:martin@example.com) (vyměň za svůj email nebo smaž)
+📧 [martin@votapek.cz](mailto:martin@votapek.cz)
 
 ---
